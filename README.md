@@ -10,6 +10,6 @@
 [Provide skills and associated project. Make 
 
 | Skill                       | Associated Project |
-|-----------------------------|--------------------|
+|--------------|--------------------|
 | Row 1, Col 1                | Row 1, Col 2       |
 | Row 2, Col 1                | Row 2, Col 2       |
