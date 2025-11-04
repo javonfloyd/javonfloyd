@@ -10,9 +10,9 @@
 [Provide skills and associated project. Make sure to hyperlink the project]
 
 | Skill | Associated Project |
-|--------|------|--------------|
-|  | Row 1, Col 2 | |
-| Row 2, Col 1 | Row 2, Col 2 | |
+|--------------|--------------|
+|  | Row 1, Col 2 |
+| Row 2, Col 1 | Row 2, Col 2 |
 
 ## Tools
 [Provide tools and creak them down into categories]
