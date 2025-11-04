@@ -9,7 +9,7 @@
 ## Skills
 [Provide skills and associated project. Make 
 
-| Column 1 | Column 2 |
-|-----------|-----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
+| Skill                       | Associated Project |
+|-----------------------------|--------------------|
+| Row 1, Col 1                | Row 1, Col 2       |
+| Row 2, Col 1                | Row 2, Col 2       |
