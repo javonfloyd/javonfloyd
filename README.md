@@ -1,8 +1,7 @@
 ## Hello, I'm Javon!
 <a href="https://www.linkedin.com/in/javonfloyd"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
 
-[Brief Introduction]
-
+My name is Javon
 ## Objective
 [Provide Objective]
 
