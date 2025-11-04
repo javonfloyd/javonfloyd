@@ -7,9 +7,9 @@
 [Provide Objective]
 
 ## Skills
-[Provide skills and associated project. Make 
+[Provide skills and associated project. Make sure to hyperlink the project]
 
-| Skill | Associated Project  |
-|--------------|--------------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
+| Domain | Skill | Associated Project  |
+|--------|------|--------------|
+|  | Row 1, Col 2 | |
+| Row 2, Col 1 | Row 2, Col 2 | |
