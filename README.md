@@ -9,7 +9,18 @@
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
 
-| Domain | Skill | Associated Project  |
+| Skill | Associated Project |
 |--------|------|--------------|
 |  | Row 1, Col 2 | |
 | Row 2, Col 1 | Row 2, Col 2 | |
+
+## Tools
+[Provide tools and creak them down into categories]
+
+### Tool 1
+
+### TOol 2
+
+## Certifications
+
+## Projects
