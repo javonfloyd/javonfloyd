@@ -11,9 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Industrial Control Systems (ICS) Anomaly Detection System with ML                | <a href="https://google.com">Detection Lab</a>|
-| North Carolina Department of Transportation (NCDOT) Cyber Resiliency                | <a href="https://google.com">Detection Lab</a>|
-| North Carolina Turnpike Authority (NCTA) Azure AI Cybersecurity Implementation    | <a href="https://google.com">Detection Lab</a>|
+| Skill #1                                      | <a href="https://google.com">ICS Anomaly Detection System with ML</a>|
+| Skill #2                                      | <a href="https://google.com">NCDOT Cyber Resiliency</a>|
+| Skill #3                                      | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
 
 ## Tools
 
@@ -38,6 +38,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- ICS Anomaly Detection System with ML
-- NCDOT Cyber Resiliency
-- NCTA Azure AI Cybersecurity Implementation
+- Industrial Control Systems (ICS) Anomaly Detection System with ML
+- North Carolina Department of Transportation (NCDOT) Cyber Resiliency
+- North Carolina Turnpike Authority (NCTA) Azure AI Cybersecurity Implementation
