@@ -11,9 +11,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Skill #1                                      | <a href="https://google.com">ICS Anomaly Detection System with ML</a>|
-| Skill #2                                      | <a href="https://google.com">NCDOT Cyber Resiliency</a>|
-| Skill #3                                      | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
+| Intrusion Detection                           | <a href="https://google.com">ICS Anomaly Detection System with ML</a>|
+| Automation                                    | <a href="https://google.com">ICS Anomaly Detection System with ML</a>|
+| Vulnerability Management                      | <a href="https://google.com">NCDOT Cyber Resiliency</a>|
+| AI Model/Cloud Security                       | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
+| Data Security Testing                         | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
+| Governance, Risk, and Compliance              | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
 
 ## Tools
 
