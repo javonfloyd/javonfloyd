@@ -11,13 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ICS Anomaly Detection System with ML          | <a href="https://google.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Industrial Control Systems Anomaly Detection System with ML                | <a href="https://google.com">Detection Lab</a>|
+| North Carolina Department of Transporation Cyber Resiliency                | <a href="https://google.com">Detection Lab</a>|
+| North Carolina Turnpike Authority Azure AI Cybersecurity Implementation    | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
