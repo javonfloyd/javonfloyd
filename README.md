@@ -14,9 +14,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Intrusion Detection                           | <a href="https://google.com">ICS Anomaly Detection System with ML</a>|
 | Automation                                    | <a href="https://google.com">ICS Anomaly Detection System with ML</a>|
 | Vulnerability Management                      | <a href="https://google.com">NCDOT Cyber Resiliency</a>|
+| Governance, Risk, and Compliance              | <a href="https://google.com">NCDOT Cyber Resiliency & NCTA Azure AI Cybersecurity Implementation</a>|
 | AI Model/Cloud Security                       | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
 | Security Testing                              | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
-| Governance, Risk, and Compliance              | <a href="https://google.com">NCTA Azure AI Cybersecurity Implementation</a>|
 
 ## Tools
 
