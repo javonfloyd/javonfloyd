@@ -5,7 +5,7 @@ I am an undergraduate with a profound interest in information security and machi
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically to utilize machine learning in security.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
 
